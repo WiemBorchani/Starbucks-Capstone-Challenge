@@ -51,4 +51,8 @@ time: (numeric) hours after start of test
 ### Results
 
 The test data set accuracy of 0.929 and F1-score of 0.931 suggests that the random forest model did not overfit the training data.
+---------------------------------------------------------------------------------------------
+## code link :
+https://github.com/WiemBorchani/Starbucks-Capstone-Challenge/blob/master/Starbucks_Capstone_notebook%20_.ipynb
+## Medium blog link :
 
