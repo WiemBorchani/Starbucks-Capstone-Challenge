@@ -55,4 +55,4 @@ The test data set accuracy of 0.929 and F1-score of 0.931 suggests that the rand
 ## code link :
 https://github.com/WiemBorchani/Starbucks-Capstone-Challenge/blob/master/Starbucks_Capstone_notebook%20_.ipynb
 ## Medium blog link :
-
+https://medium.com/@wiembborchani/how-much-do-you-spend-on-coffee-d339eb12ad11
